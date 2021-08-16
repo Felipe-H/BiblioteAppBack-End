@@ -1,3 +1,36 @@
+
+## Tecnologias utilizada no desenvolvimento da API:
+
+```
+A api foi desenvolvida em PHP com o framework Laravel.
+Para iniciar o servidor apache e o MySql foi utilizado o Laragon, que é um aplicativo do proprio laravel.
+O banco de dados foi construido pelo Migrations do próprio laravel com auxilio do SGBD HeidiSQL.
+Para testar a Api foi utilizado o Aplicativo Postman, onde testei meus métodos.
+
+
+```
+
+## Para executar o Backend:
+
+```
+Com os aplicativos devidamente instalados:
+Inicie o Laragon para iniciar o servidor do MySQL e do Apache.
+Com o laragon em execução, clique com o botão direito no ícone na barra de ferramentas, clique em 
+"Criar rapidamente um website".
+Coloque o nome do projeto e ao abrir o cmd ele vai criar para o usuario o banco e o virtual host.
+Após isso reinicie o Apache.
+
+
+
+
+
+
+
+
+
+```
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -6,6 +39,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
+
 
 ## About Laravel
 
